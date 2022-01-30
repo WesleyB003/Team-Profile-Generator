@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/WesleyB003/Team-Profile-Generator/issues"
   },
-  "homepage": "https://github.com/WesleyB003/Team-Profile-Generator#readme"
+  "homepage": "https://github.com/WesleyB003/Team-Profile-Generator#readme",
+  "devDependencies": {
+    "jest": "^27.4.7"
+  }
 }
